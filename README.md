@@ -44,6 +44,6 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
+
 ![snake gif](https://github.com/404SkillNotFound/404SkillNotFound/blob/output/github-snake-dark.svg)
-</p>
+
