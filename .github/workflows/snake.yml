@@ -2,21 +2,21 @@ name: 🐍 Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs every day at midnight UTC
+    - cron: "0 0 * * *"  # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate the snake SVG
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: 404SkillNotFound
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Upload to GitHub Pages
+      - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
