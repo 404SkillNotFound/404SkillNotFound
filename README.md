@@ -18,10 +18,10 @@ C++, Python (basic)
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=404SkillNotFound&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=404SkillNotFound&show_icons=true&theme=tokyonight&hide_border=true" width="440"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404SkillNotFound&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404SkillNotFound&layout=compact&theme=tokyonight&hide_border=true" width="440"/>
     </td>
   </tr>
 </table>
