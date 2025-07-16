@@ -2,7 +2,7 @@
   <img src="banner.png" />
 </p>
 
-<h1 align="center"><code>404SkillNotFound</code></h1>
+
 
 <p align="center">Learning.<br>Building slowly.<br>C++ and DSA for now.</p>
 
