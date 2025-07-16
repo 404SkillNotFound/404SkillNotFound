@@ -6,7 +6,7 @@ C++ and DSA for now.
 
 ---
 
-### 🛠 Languages
+### 🛠 Languages  
 C++, Python (basic)
 
 📂 Repos = personal logs.
@@ -15,10 +15,16 @@ C++, Python (basic)
 
 ### 📊 Stats & Usage
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=404SkillNotFound&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404SkillNotFound&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=404SkillNotFound&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404SkillNotFound&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
