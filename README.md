@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner.png" />
-</p>
-# 404SkillNotFound
+</p><h1 align="center">404SKILLNOTFOUND</h1>
 
 Learning.  
 Building slowly.  
