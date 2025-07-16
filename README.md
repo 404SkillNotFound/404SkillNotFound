@@ -33,4 +33,4 @@ C++, Python (basic)
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/YOUR_USERNAME/404SkillNotFound/blob/output/github-snake-dark.svg)
