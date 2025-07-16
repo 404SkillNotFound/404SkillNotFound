@@ -44,7 +44,6 @@
 ---
 
 ### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/404SkillNotFound/404SkillNotFound/output/dist/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/404SkillNotFound/404SkillNotFound/blob/output/github-snake-dark.svg)
 </p>
