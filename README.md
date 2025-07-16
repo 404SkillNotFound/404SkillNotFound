@@ -34,5 +34,5 @@ C++, Python (basic)
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/404SkillNotFound/404SkillNotFound/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/404SkillNotFound/404SkillNotFound/output/dist/github-contribution-grid-snake.svg" />
 </p>
