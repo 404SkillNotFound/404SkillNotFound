@@ -20,3 +20,6 @@ C++, Python (basic)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=404SkillNotFound&show_icons=true&theme=tokyonight" width="400" />
 </p>
+<p align="center">
+  <img src="https://github.com/404SkillNotFound/404SkillNotFound/raw/output/github-contribution-grid-snake.svg" />
+</p>
