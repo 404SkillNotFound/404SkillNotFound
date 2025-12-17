@@ -1,10 +1,8 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=404SkillNotFound&label=Profile+Visitors&color=b60e0e&style=flat-square" alt="Profile Visitors"/>
-</p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=The+code+that+works;is+always+the+one+nobody+understands." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=The+code+that+works;is+always+the+one+nobody+understands." alt="Typing SVG" />
+</a>
 
 <img src="banner.png" alt="Header Banner"/>
 
@@ -74,14 +72,18 @@
   <h2> My Contribution Activity</h2>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=404SkillNotFound&theme=radical&hide_border=true&area=true&line=fe428e&hide_title=true" alt="Activity Graph"/>
-  <br/>
-  <img src="https://github.com/404SkillNotFound/404SkillNotFound/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph"/>
 </div>
 
 ---
 
 <div align="center">
   <h2> Connect</h2>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/></a>
+
+  <a href="mailto:shivang.upadhyay1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shivangupadhyay/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
