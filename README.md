@@ -15,9 +15,10 @@
     <td valign="top" width="60%">
       <h2> About Me</h2>
       <p>
-        I build efficient, scalable solutions with a primary focus on C++ and high-performance computing. My work centers on algorithm optimization and robust system architecture.
+        I focus on C++ and performance-oriented programming, with an emphasis on algorithms,
+        memory management, and system-level design.
         <br/><br/>
-        This profile serves as a curated log of my projects and technical explorations.
+        This profile serves as a curated log of my projects, experiments, and ongoing technical exploration.
       </p>
     </td>
     <td valign="top" width="40%">
@@ -30,14 +31,14 @@
 
 <div align="center">
   <h2> My Toolkit</h2>
-  
+
   <h4>Languages</h4>
   <p>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </p>
-  
+
   <h4>Tools & Platforms</h4>
   <p>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
@@ -50,28 +51,55 @@
 ---
 
 <div align="center">
-  <h2> My GitHub Stats</h2>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404SkillNotFound&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=404SkillNotFound&theme=radical&hide_border=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=404SkillNotFound&theme=radical&margin-w=10&margin-h=15&no-frame=true" alt="GitHub Trophies" width="80%"/>
+  <h2> Featured Project</h2>
+</div>
+
+<h3>
+  <a href="https://github.com/404SkillNotFound/tiny-httpserver-cpp">
+    tiny-httpserver-cpp
+  </a>
+</h3>
+
+<p>
+A minimal HTTP server written in modern C++, built to explore low-level networking,
+request parsing, and efficient I/O handling.
+</p>
+
+<ul>
+  <li>Socket programming and TCP fundamentals</li>
+  <li>Basic HTTP request parsing</li>
+  <li>Minimal, readable architecture focused on learning and experimentation</li>
+</ul>
+
+---
+
+<div align="center">
+  <h2> GitHub Stats</h2>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=404SkillNotFound&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
+    width="50%"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=404SkillNotFound&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+    width="75%"
+  />
 </div>
 
 ---
 
 <div align="center">
-  <h2> My Contribution Activity</h2>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=404SkillNotFound&theme=radical&hide_border=true&area=true&line=fe428e&hide_title=true" alt="Activity Graph"/>
+  <h2> Contribution Activity</h2>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=404SkillNotFound&theme=radical&hide_border=true&area=true&hide_title=true"
+    alt="Activity Graph"
+  />
 </div>
 
 ---
