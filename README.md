@@ -22,7 +22,8 @@
       </p>
     </td>
     <td valign="top" width="40%">
-      <img src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif" alt="Anime Character Coding GIF" width="100%"/>
+      <img src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif"
+           alt="Anime Character Coding GIF" width="100%"/>
     </td>
   </tr>
 </table>
@@ -41,7 +42,7 @@
 
   <h4>Tools & Platforms</h4>
   <p>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -84,8 +85,9 @@ request parsing, and efficient I/O handling.
 
   <br/><br/>
 
+  <!-- STABLE STREAK SERVICE -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=404SkillNotFound&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=404SkillNotFound&theme=radical&hide_border=true&cache_seconds=21600"
     alt="GitHub Streak"
     width="75%"
   />
