@@ -79,14 +79,6 @@ request parsing, and efficient I/O handling.
 
 </div>
 
----
-
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=404SkillNotFound&theme=radical&hide_border=true)
-
----
-
 ## Contribution Activity
 
 <div align="center">
