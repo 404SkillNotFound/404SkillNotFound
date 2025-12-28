@@ -1,5 +1,3 @@
-<div align="center">
-
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -20,10 +18,7 @@
 
 ---
 
-
-<div align="center">
-  <h2>Featured Project</h2>
-</div>
+<h2>Featured Project</h2>
 
 ### 🔹 [tiny-httpserver-cpp](https://github.com/404SkillNotFound/tiny-httpserver-cpp)
 
@@ -35,8 +30,6 @@ request parsing, and efficient I/O handling.
 - Minimal, readable architecture focused on learning and experimentation  
 
 ---
-
-</div>
 
 ## Connect
 
