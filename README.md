@@ -68,15 +68,6 @@ request parsing, and efficient I/O handling.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=404SkillNotFound&layout=compact&theme=radical&hide_border=true"
-  width="50%"
-/>
-
 </div>
 
 ## Contribution Activity
