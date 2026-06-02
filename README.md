@@ -1,46 +1,46 @@
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h2>About Me</h2>
-      <p>
-        I focus on C++ and performance-oriented programming, with an emphasis on algorithms,
-        memory management, and system-level design.
-        <br/><br/>
-        This profile serves as a curated log of my projects, experiments, and ongoing technical exploration.
-      </p>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://i.pinimg.com/originals/1f/d7/8e/1fd78e28449345cb772e60eb101b66b2.gif"
-           alt="Anime Character Coding GIF" width="100%"/>
-    </td>
-  </tr>
-</table>
+# 404SkillNotFound
+
+> *Writing code until I find the skills I'm looking for.*
 
 ---
 
-<h2>Featured Project</h2>
+## Featured Projects
 
-### 🔹 [tiny-httpserver-cpp](https://github.com/404SkillNotFound/tiny-httpserver-cpp)
+### 🔹 orderbook-engine
+A C++ order book matching engine built to understand how markets work at a fundamental level — price-time priority, FIFO execution, partial fills, and order cancellation.
 
-A minimal HTTP server written in modern C++, built to explore low-level networking,
-request parsing, and efficient I/O handling.
+- Price levels stored in `std::map` for automatic sorted ordering; fast access to best bid and ask
+- Per-level order queues in `std::list` for strict FIFO execution and efficient front removal
+- Supports full and partial fills — unmatched remainder stays live in the book
+- Benchmarked at ~1.3M orders/second (~757ns/order) on a 100k synthetic workload
+- `addOrder()` avg ~35.6ms · `matchOrder()` avg ~24.0ms across benchmark runs
 
-- Socket programming and TCP fundamentals  
-- Basic HTTP request parsing  
-- Minimal, readable architecture focused on learning and experimentation  
+→ [404SkillNotFound/orderbook-engine](https://github.com/404SkillNotFound/orderbook-engine)
+
+---
+
+### 🔹 tiny-httpserver-cpp
+A minimal HTTP/1.1 server written from scratch in C++ using raw sockets, built to explore low-level networking and I/O handling.
+
+- Socket programming and TCP fundamentals
+- Basic HTTP request parsing
+- Minimal, readable architecture focused on learning
+
+→ [404SkillNotFound/tiny-httpserver-cpp](https://github.com/404SkillNotFound/tiny-httpserver-cpp)
+
+---
+
+## About
+
+I focus on **C++ and performance-oriented programming**, with an emphasis on algorithms, memory management, and system-level design.
+
+This profile is a curated log of projects, experiments, and ongoing technical exploration. The goal is to build things from scratch, understand the internals, and iterate toward correctness before optimisation.
+
+Current interests: matching engines, networking, low-latency systems.
 
 ---
 
 ## Connect
 
-<div align="center">
-
-<a href="mailto:shivang.upadhyay1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivangupadhyay/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+- 📧 shivang.upadhyay1@gmail.com
+- 💼 [linkedin.com/in/shivangupadhyay](https://linkedin.com/in/shivangupadhyay)
