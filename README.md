@@ -1,9 +1,5 @@
 # 404SkillNotFound
 
-> *Writing code until I find the skills I'm looking for.*
-
----
-
 ## Featured Projects
 
 ### 🔹 orderbook-engine
