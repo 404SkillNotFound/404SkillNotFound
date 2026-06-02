@@ -3,7 +3,7 @@
 ## Featured Projects
 
 ### 🔹 orderbook-engine
-A C++ order book matching engine built to understand how markets work at a fundamental level — price-time priority, FIFO execution, partial fills, and order cancellation.
+A C++ order book matching engine built to understand how markets work at a fundamental level, price-time priority, FIFO execution, partial fills, and order cancellation.
 
 - Price levels stored in `std::map` for automatic sorted ordering; fast access to best bid and ask
 - Per-level order queues in `std::list` for strict FIFO execution and efficient front removal
