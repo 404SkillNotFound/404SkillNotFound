@@ -33,10 +33,3 @@ I focus on **C++ and performance-oriented programming**, with an emphasis on alg
 This profile is a curated log of projects, experiments, and ongoing technical exploration. The goal is to build things from scratch, understand the internals, and iterate toward correctness before optimisation.
 
 Current interests: matching engines, networking, low-latency systems.
-
----
-
-## Connect
-
-- 📧 shivang.upadhyay1@gmail.com
-- 💼 [linkedin.com/in/shivangupadhyay](https://linkedin.com/in/shivangupadhyay)
